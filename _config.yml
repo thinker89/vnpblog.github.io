@@ -110,7 +110,7 @@ author:
   location         : 
   email            :
   links:
-    - label: "Email"
+    - label: "thinker@vnp.seoul.kr"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:thinker@vnp.seoul.kr"
     - label: "Website"
